@@ -1,0 +1,18 @@
+{
+  "name": "Vien Duty Roster",
+  "short_name": "Vien",
+  "description": "Monthly staff attendance and duty roster planner for landscape tablets.",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#e4dccf",
+  "theme_color": "#243556",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
